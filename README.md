@@ -54,12 +54,10 @@ cd Tower-Defense
 Open index.html in your browser or run the project using a local server.
 
 📷 Screenshots
+
 ![image](https://github.com/user-attachments/assets/e6a12726-7e72-45d7-8669-cab6e17d402c)
 
 ![image](https://github.com/user-attachments/assets/c790a435-87a5-426b-ade1-392d1cf1c693)
-
-
-Add screenshots of the game here
 
 🔧 Technologies Used
 
